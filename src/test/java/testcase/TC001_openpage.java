@@ -16,7 +16,7 @@ public class TC001_openpage extends baseclass {
 						
 		homepage hp =new homepage(driver);
 		//hp.clickreg();
-		hp.clicklogin("godimages");
+		hp.clicklogin("lordshivagodimages");
 		hp.clickbtn();
 		
 		

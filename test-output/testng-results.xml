@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-26T11:13:30 IST" name="Suite" finished-at="2024-11-26T11:14:01 IST" duration-ms="30442">
+    <groups>
+    </groups>
+    <test started-at="2024-11-26T11:13:30 IST" name="Test" finished-at="2024-11-26T11:14:01 IST" duration-ms="30442">
+      <class name="testcase.TC001_openpage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcase.TC001_openpage@4a883b15]" started-at="2024-11-26T11:13:30 IST" name="setup" finished-at="2024-11-26T11:13:51 IST" duration-ms="20473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Regpagelnk()[pri:1, instance:testcase.TC001_openpage@4a883b15]" started-at="2024-11-26T11:13:51 IST" name="Regpagelnk" finished-at="2024-11-26T11:13:55 IST" duration-ms="4542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Regpagelnk -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcase.TC001_openpage@4a883b15]" started-at="2024-11-26T11:13:55 IST" name="teardown" finished-at="2024-11-26T11:14:01 IST" duration-ms="5390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcase.TC001_openpage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

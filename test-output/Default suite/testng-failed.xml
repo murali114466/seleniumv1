@@ -3,13 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testcase.TC001_openpage">
+      <class name="myproject.checkboxtest">
         <methods>
-          <include name="teardown"/>
-          <include name="setup"/>
-          <include name="Regpagelnk"/>
+          <include name="searitem"/>
         </methods>
-      </class> <!-- testcase.TC001_openpage -->
+      </class> <!-- myproject.checkboxtest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
